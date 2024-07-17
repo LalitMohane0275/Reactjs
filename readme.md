@@ -1,2 +1,2 @@
 # start of reactjs
-# lalit Mohane
+# Lalit Mohane
